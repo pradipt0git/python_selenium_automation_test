@@ -1,0 +1,2 @@
+do_execute, application, identifier_name, schema, executable_file_path,logic_sql_file_path, logic_generated_data_file_path,db_sql_file_path, db_data_file_path
+true, EFRT, EFTR_RMT, ROOT, [path of py file to execute],[sql_files/filename.sql], [cvs file path1],[sql_files/filename.sql],[csv file path2]

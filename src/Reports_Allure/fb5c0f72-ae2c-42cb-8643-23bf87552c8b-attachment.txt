@@ -1,2 +1,0 @@
-[32mINFO    [0m core.logger:logger.py:44 Opening URL: https://www.saucedemo.com/
-[32mINFO    [0m core.logger:logger.py:44 set Username.your_username
